@@ -1,0 +1,11 @@
+# 2019 01 25: Root
+![1d2d771f85b48e066e84145247d33df5d656758d5e9aca02d4b49d18ae94b5b3](/blog/root-d71de85af341.jpg)
+The following is the body of an email encrypted with my PGP key sent to my inbox with no return address originating from the IP 204.85.191.31. The body was signed with Tyler's PGP key, then encrypted with my public PGP key. This email came in at 2018 08 25 16:21:19.
+---
+Hello.
+I really don't know if you'll be surprised by this email, or pass it off as something expected and cliché; but either way you are reading this.
+Of the thousands of people I've met, there was not one so smart, compassionate, and lovable as you were. Everyone was too self thinking, and didn't understand anyone else in the way you could.
+Which is why I have only sent this email to you. I think you're the only one who can understand the meaning behind it, and the reason behind myself, and you, and everybody.
+But all of that doesn't matter, as understanding it won't change anything. So instead, I'll finish with this:
+I really hope to have the honor to meet you again.
+72b78f1ae329d02ef9f23f5e6aa4102291ebd8183c4ffd32b6cbf1cd445e3dcb

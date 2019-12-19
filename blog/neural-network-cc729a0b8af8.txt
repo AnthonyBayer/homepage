@@ -1,0 +1,9 @@
+# 2019 05 10: Neural Network
+![5102c3a1979addca70a6fac28123218e17950e039f5720c45c237ee4272d582e](/blog/neural-network-cc729a0b8af8.jpg)
+"So..." Mr. Algien started, "What do you guys want to learn about today?"
+Everyone was super tired. We had this class at the end of the day on Wednesdays. "artificial intelligence?" James suggested. Nobody contested.
+Okay," Mr. Agien said, "but its 'neural network', 'artificial intelligence' only exists in marketing.
+"So, people think that neural networks are essentially magic. They know that it takes an input and gives an output, but they also think that nobody knows how it got there, but that is the farthest thing from true.
+"Neural networks are just a bunch of nodes that are connected together in a way that the creator thinks will best solve the problem. Each node is nothing but a number between one and zero. The value of the nodes is calculated by the value of all the nodes, multiplied by their connection strength, added together. This number is then put through a function that approaches 0 at negative infinity, and one at positive infinity, insuring that the value stays between one and zero.
+"Training a neural network is just guessing and checking. During training, the connections between the nodes are strengthened and weakened randomly, and then that specific network is then checked for accuracy against a set of data where the correct answers are already known. If the output of the network is favorable, it keeps that change.
+"But the most important thing to know about neural networks is that they're no different than other functions. (Once they're trained), they will always give the exact same output for the exact same input. There is never randomness in computers, like how a random number generator on a computer is never random, it has to be based off of something.

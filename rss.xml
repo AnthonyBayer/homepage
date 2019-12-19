@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+	<channel>
+		<title>Anthony Bayer</title>
+		<description>The most recent posts</description>
+		<link>https://anthonybayer.org/blog</link>
+		<lastBuildDate>Sun, 08 Dec 2019, 23:45:00</lastBuildDate>
+		<item>
+			<title>2019 10 30: Parallel</title>
+			<link>https://anthonybayer.org/blog/late-night-dream-7a166f40d23f</link>
+			<guid>late-night-dream-7a166f40d23f</guid>
+			<pubDate>Sun, 08 Dec 2019, 23:45:00</pubDate>
+		</item>
+		<item>
+			<title>2019 11 29: Thanksgiving</title>
+			<link>https://anthonybayer.org/blog/thanksgiving-b75f788bcee6</link>
+			<guid>thanksgiving-b75f788bcee6</guid>
+			<pubDate>Fri, 29 Nov 2019 04:25:00</pubDate>
+		</item>
+		<item>
+			<title>2019 10 13: Amy</title>
+			<link>https://anthonybayer.org/blog/tyler-6689b73beeca</link>
+			<guid>tyler-6689b73beeca</guid>
+			<pubDate>Sun, 24 Nov 2019 04:50:00</pubDate>
+		</item>
+		<item>
+			<title>2019 10 09: High</title>
+			<link>https://anthonybayer.org/blog/ostrichism-be2704d543ea</link>
+			<guid>ostrichism-be2704d543ea</guid>
+			<pubDate>Tue, 19 Nov 2019 04:30:00</pubDate>
+		</item>
+		<item>
+			<title>2019 11 10: Empire</title>
+			<link>https://anthonybayer.org/blog/empire-05ba5c0128cd</link>
+			<guid>empire-05ba5c0128cd</guid>
+			<pubDate>Sun, 10 Nov 2019 04:20:00</pubDate>
+		</item>
+		<item>
+			<title>2019 11 04: The Truth</title>
+			<link>https://anthonybayer.org/blog/the-truth-429f4fd6148f</link>
+			<guid>the-truth-429f4fd6148f</guid>
+			<pubDate>Mon, 04 Nov 2019 3:55:00</pubDate>
+		</item>
+	</channel>
+</rss>
