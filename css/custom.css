@@ -10,10 +10,10 @@ h1#featured-post {
 	margin-bottom:0px;
 	font-weight:300;
 }
-h1#page-title {font-size:86px;border-bottom:none;margin:0em;}
+@media (min-width:800px) {h1#page-title {font-size:96px;border-bottom:none;margin:0em;}}
 @media (max-width:800px) {h1#page-title {font-size:56px;}}
 h1#page-title, h1.post-hero-title {font-family:'DM Serif Display',serif;font-weight:400;}
-.title-container h1#page-title {text-align:center;color:#ffffff;font-size:96px;}
+.title-container h1#page-title {text-align:center;color:#ffffff;}
 .title-container p {font-weight:300;font-size:24px;}
 a {color:#151515;}
 a:hover {text-decoration:underline;}
