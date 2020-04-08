@@ -4,7 +4,13 @@
 		<title>Anthony Bayer</title>
 		<description>The most recent posts</description>
 		<link>https://anthonybayer.org/blog</link>
-		<lastBuildDate>Sun, 29 Mar 2020 05:20:00</lastBuildDate>
+		<lastBuildDate>Wed, 08 Apr 2020 18:05:00</lastBuildDate>
+		<item>
+			<title>2020 04 08: He Noticed</title>
+			<link>https://anthonybayer.org/blog/he-noticed-be7497f30f4c</link>
+			<guid>he-noticed-be7497f30f4c</guid>
+			<pubDate>Wed, 08 Apr 2020 18:05:00</pubDate>
+		</item>
 		<item>
 			<title>2020 04 05: kiss</title>
 			<link>https://anthonybayer.org/blog/kiss-e533975bb568</link>
@@ -58,12 +64,6 @@
 			<link>https://anthonybayer.org/blog/goodbye-6265069d279e</link>
 			<guid>goodbye-6265069d279e</guid>
 			<pubDate>Wed, 22 Jan 2020 05:00:00</pubDate>
-		</item>
-		<item>
-			<title>2020 01 11: A Sunny Day</title>
-			<link>https://anthonybayer.org/blog/a-sunny-day-d6d7c678a15c</link>
-			<guid>a-sunny-day-d6d7c678a15c</guid>
-			<pubDate>Sat, 11 Jan 2020 16:45:00</pubDate>
 		</item>
 	</channel>
 </rss>
