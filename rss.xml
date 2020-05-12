@@ -4,7 +4,13 @@
 		<title>Anthony Bayer</title>
 		<description>The most recent posts</description>
 		<link>https://anthonybayer.org/blog</link>
-		<lastBuildDate>Wed, 06 May 2020 22:45:00</lastBuildDate>
+		<lastBuildDate>Tue, 12 Apr 2020, 22:25:00</lastBuildDate>
+		<item>
+			<title>2020 05 12: 24 Bit</title>
+			<link>https://anthonybayer.org/blog/24-bit-e86469f3f4ab</link>
+			<guid>24-bit-e86469f3f4ab</guid>
+			<pubDate>Tue, 12 Apr 2020, 22:25:00</pubDate>
+		</item>
 		<item>
 			<title>2020 05 06: Boring</title>
 			<link>https://anthonybayer.org/blog/boring-785869fdaba0</link>
@@ -58,12 +64,6 @@
 			<link>https://anthonybayer.org/blog/imagination-6b87f5c8a710</link>
 			<guid>imagination-6b87f5c8a710</guid>
 			<pubDate>Tue, 10 Mar 2020 19:40:00</pubDate>
-		</item>
-		<item>
-			<title>2020 03 04: Myself</title>
-			<link>https://anthonybayer.org/blog/myself-66fc60770893</link>
-			<guid>myself-66fc60770893</guid>
-			<pubDate>Wed, 04 Mar 2020, 17:30:00</pubDate>
 		</item>
 	</channel>
 </rss>
