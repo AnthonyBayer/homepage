@@ -1,0 +1,14 @@
+# 2020 05 25: Meticulous
+![3a5dd74126b1da9896b3678242f311a337db2b6d3523bc9108da7719b876657d](/blog/meticulous-b4c05f04b744.jpg)
+"What are you trying to do?" Ms. Northington asked me.
+"I'm trying to figure out who you are." I said.
+"What does that mean?" She asked right back. I didn't respond and kept staring at her, no such luck.
+I sighed. "I'll get to the point," I started. "On your laptop you have two storage devices: a 1 terrabyte M.2 which you use for Windows, and a 4 terrabyte SSD which you use for storage of certain media."
+Ms. Northington acted confused. "Now the thing is that someone told me what you store on there, and me being me, wanted to get my hands on it. Getting into your Windows installation was easy, but the thing is that the SSD is filled with an LUKS encrypted partition that you only unlock with what I assume is TAILS on a flash drive. I was originally planning to just copy off the files on the drive masking as Windows Defender, but I actually had to make a whole new program that meticulously copied of bit for bit every single part of that SSD as to not look suspicious. It took me three weeks. During that three weeks I brute forced the password, thanks to how LUKS works I started almost immediately."
+Ms. Northington stopped acting. "Did you unlock it?"
+"It took me a while but yes, I did. You're smart enough to use a 10 digit random password: '5j9#vUvf2('."
+She looked me in the eyes with a strikingly neutral emotion.
+"Right now, I could grab that laptop, and turn it into one of my friends at the FBI, give them the password, and watch as you go to prison for the rest of your life." I paused, "And watch as this school gets torn apart, bit by bit."
+Ms. Northington kept looking at me. She knew that whatever she did she couldn't change anything.
+"However, what I will do is show my parents one photo; just one; this afternoon. What they will do is immediately drive here, march into this office, and make you one of their assets; for what, I don't know." Ms. Northington finally showed a very slight bit of being afraid, "I need you to be in your office. When you are one of my parent's assets, you are one of mine; and I need that."
+"Why?" Ms. Northington asked as I stood up. "You are in no position to ask that." I said, and walked out of the door.
