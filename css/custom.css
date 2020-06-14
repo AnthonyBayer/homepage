@@ -18,6 +18,7 @@ h1#page-title, h1.post-hero-title {font-family:'DM Serif Display',serif;font-wei
 a {color:#151515;}
 a:hover {text-decoration:underline;}
 h4.large {margin-top:35px;margin-bottom:35px;text-align:center;font-weight:100;font-size:36px;}
+div.main-page-blog h4.large {margin-top:0px;}
 
 /* Containers */
 .container {
@@ -99,9 +100,8 @@ h4.large {margin-top:35px;margin-bottom:35px;text-align:center;font-weight:100;f
 	.footer .row {padding-left:20px;padding-right:20px;}
 }
 .loop6 {width:50%;float:left}
-@media (max-width:840px) {.loop6 {width:100%;margin-bottom:10px;}.footer {padding-bottom:22px;}}
+@media (max-width:840px) {.loop6{width:100%;margin-bottom:10px;}.footer{padding-bottom:22px;}}
 .no-padding {padding:0px;}
-
 .grid-wide {
 	width: 100%;
 	min-width: 260px;
@@ -113,41 +113,30 @@ h4.large {margin-top:35px;margin-bottom:35px;text-align:center;font-weight:100;f
 	clear: both;
 }
 
-
 /* Post Hero*/
 .post-hero-image {
 	height:250px;
 	background-size: cover;
 	background-position:center;
 }
+div.large .post-hero-image {height:350px;}
 .post-hero-text-container {
 	background-color:#f3f3f3;
-}
-.post-hero-text-container.small, .post-hero-text-container.medium , .post-hero-text-container.wide {
 	padding:15px;
+	border-bottom:none;
+	margin-bottom:30px;
 }
-@media (min-width: 480px) {.post-hero-text-container.large {height:250px;	}}
-.grid-hero {margin:0px;}
+
 h1.post-hero-title {
 	margin-top:0px;
-	border-bottom:none;
 	font-size:34px;
-	margin-bottom:32px;
-	padding-left:12px;
-	padding-right:12px;
+	border-bottom:none;
 }
 div.post-hero-text-container h1.post-hero-title {margin:0px;font-size:42px;}
-.post-hero-title.large {
-	margin:12px;
-	text-align:right;
-}
-.post-hero-container-full {margin-bottom:40px;}
-
 
 /* Characters */
 .character-image {width:90%;margin-left:5%;}
 h3.character-name {text-align:center;margin-top:10px;font-family:'Montserrat';font-weight:300;}
-
 
 /* interview Formatting */
 .after, .grid:after {
